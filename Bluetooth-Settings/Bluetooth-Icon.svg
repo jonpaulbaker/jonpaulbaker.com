@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Bluetooth-Icon.svg"
+   inkscape:export-filename="Bluetooth-Icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Bluetooth Symbol</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.822492"
+     inkscape:cx="66.102815"
+     inkscape:cy="41.0235"
+     inkscape:window-width="2292"
+     inkscape:window-height="1360"
+     inkscape:window-x="1132"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     inkscape:export-bgcolor="#00000000" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:#0021ab;fill-opacity:1;stroke-width:0.231793"
+       id="rect3"
+       width="9.6008692"
+       height="12.711644"
+       x="1.5495654"
+       y="7.2334336e-07"
+       inkscape:label="rect3"
+       ry="2.936491" />
+  </g>
+  <g
+     inkscape:label="B + H rune"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="text6125"
+       style="font-size:16.9333px;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#ffffff;fill-opacity:1;stroke-width:0.201857"
+       d="M 5.1477054,0.81076224 V 5.742598 L 3.6527567,4.107098 V 4.9000791 L 5.0671416,6.4365036 3.6527567,7.9854033 V 8.7783845 L 5.1477054,7.1428869 v 4.7087241 h 0.007 v 0.0098 H 5.7067308 L 9.0472433,8.7515386 6.285884,6.2981036 9.0472433,3.9312611 5.7067308,0.82097516 h -0.0066 c -2.39e-5,-0.003406 2.39e-5,-0.006803 0,-0.0102103 z M 5.7067189,1.5523148 8.252694,3.9063002 5.7153506,6.117345 c 7.247e-4,-1.2938217 -0.0027,-2.5876753 -0.00863,-3.8817127 z M 5.7149354,6.5525953 8.25269,8.7636366 5.7067149,11.117999 V 9.4643494 c 0.00302,-0.9705374 0.00724,-1.9413391 0.00822,-2.9117541 z" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://github.com/aws/mit-0" />
+        <dc:title>Bluetooth Symbol</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
